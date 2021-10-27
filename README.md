@@ -1,2 +1,2 @@
 # TenorApi-without-any-limitation
-Jus simple webscrap
+Just simple webscrap
